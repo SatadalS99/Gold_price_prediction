@@ -1,2 +1,2 @@
 # Gold_price_prediction
-This project predicts gold prices using machine learning models based on key economic indicators such as thhistorical data and provides an interactive Streamlit web app for users to expe S&amp;P 500 Index, oil prices, silver prices, and the EUR/USD exchange rate. 
+This project predicts gold prices using machine learning models based on key economic indicators such as the S&P 500 Index, oil prices, silver prices, and the EUR/USD exchange rate. It leverages Random Forest and Gradient Boosting regressors to model historical data and provides an interactive Streamlit web app for users to explore model performance and make real-time predictions through custom inputs.
