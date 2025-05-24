@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/New flask/Hotel_recomendation_system"
+		},
+		{
+			"path": "../Basics_fastAPI"
+		},
+		{
+			"path": "../diabetes_prediction"
+		},
+		{
+			"path": "../../Dockers_only/basic_docker"
+		},
+		{
+			"path": "../../Dockers_only/docker_compose"
+		},
+		{
+			"path": "../World_education"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Diabetes FastAPI"
+	}
+}
