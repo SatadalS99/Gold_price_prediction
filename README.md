@@ -22,6 +22,8 @@ Precious metal valuation is heavily influenced by macroeconomic interplay and cr
 
 ---
 
+```text
+
 ## 🗂️ Repository Architecture
 
 
@@ -38,7 +40,7 @@ Precious metal valuation is heavily influenced by macroeconomic interplay and cr
 ├── gld_price_data.csv                            # Root financial dataset
 └── README.md                                     # Project documentation
 
-
+```
 
 ---
 
