@@ -144,14 +144,6 @@ Provides error magnitude in the exact dollar units of the target variable.
 
 ---
 
-## 📜 Documentation & References
-
-For a deeper theoretical breakdown of the decision tree architecture, pruning strategies, and exploratory data analysis findings, please consult the included official report:
-
-* 📄 **[`Gold_price_prediction_Documentation.pdf`](https://www.google.com/search?q=./Gold_price_prediction_Documentation.pdf)**
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
