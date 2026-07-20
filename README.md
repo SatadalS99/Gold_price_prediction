@@ -24,7 +24,7 @@ Precious metal valuation is heavily influenced by macroeconomic interplay and cr
 
 ## 🗂️ Repository Architecture
 
-```text
+
 ├── .devcontainer/
 │   └── devcontainer.json                         # Containerized environment configuration
 ├── app_folder/
@@ -165,7 +165,5 @@ Contributions, issues, and feature requests are welcome!
 ## 📝 License
 
 MIT
-
-```
 
 ```
