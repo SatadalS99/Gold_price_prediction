@@ -1,8 +1,6 @@
-Here is a comprehensive, production-ready `README.md` tailored specifically for your GitHub repository. It is structured to highlight both the rigorous machine learning methodology and the interactive Streamlit web application, making it instantly engaging for recruiters, fellow data scientists, and developers.
 
-You can copy the markdown block below and paste it directly into your project's `README.md` file.
 
-```markdown
+
 # 🏆 Gold Price Prediction & Interactive Forecasting Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -40,7 +38,7 @@ Precious metal valuation is heavily influenced by macroeconomic interplay and cr
 ├── gld_price_data.csv                            # Root financial dataset
 └── README.md                                     # Project documentation
 
-```
+
 
 ---
 
